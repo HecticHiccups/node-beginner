@@ -9,7 +9,7 @@ So getting started with node is quite simple you will need 3 things regardless o
 - Download [Git](https://git-scm.com/)
 
 Once you've downloaded these things, you need to verify you have them by running version commands.<br>
-git -v <br>
+git version <br>
 node -v <br>
 npm -v  <br>
 
