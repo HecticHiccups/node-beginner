@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+body{
+    
+font-size: 16px;
+line-height:1.5;
+
+
+}
+
+.navbar {
+    margin:0;
+}
+
+.hero {
+    background-image:url(/img/solar.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    height:100vh;
+    
+}
+
+.hero-content {
+    position:absolute;
+    top:35%;
+    text-align: center;
+    width:100%;
+}
+
+.hero-content h2 {
+    color:#fff;
+    font-size: 80px;
+    
+}
+
+.hero-content p{
+    color:#fff;
+    font-size:40px;
+    margin-bottom:1px;
+    
+    
+}
+.hero-content .btn {
+    border-radius:2px;
+    padding:20px 30px;
+    
+}
+
+main{
+    min-height:500px;
+    padding:50px 0;
+    
+
+}
+
+footer {
+    padding:30px 0;
+    font-size:14px;
+    color:#BBB;
+    background:#222;
+    text-align:center;
+}
